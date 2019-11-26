@@ -1,2 +1,2 @@
 # cards-tf
-Tf for cards go appp
+Tf for cards go app
